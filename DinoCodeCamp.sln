@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoCodeCamp", "DinoCodeCamp\DinoCodeCamp.csproj", "{4199D241-39DF-4EA9-811B-AE67A3B4C0C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4199D241-39DF-4EA9-811B-AE67A3B4C0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4199D241-39DF-4EA9-811B-AE67A3B4C0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4199D241-39DF-4EA9-811B-AE67A3B4C0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4199D241-39DF-4EA9-811B-AE67A3B4C0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5702CC-A70B-4A15-969E-321BDDC25005}
+	EndGlobalSection
+EndGlobal
